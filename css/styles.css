@@ -1,0 +1,150 @@
+/* Navbar */
+.container-fluid {
+  padding: 3% 8%;
+}
+#title {
+  background-color: #022C43;
+  color: #fff;
+}
+.logo{
+  width: 8%;
+}
+.navbar {
+  padding: 7% 15%;
+}
+.navbar {
+  padding: 3% 8% 1%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 1rem;
+}
+
+.nav-item {
+  padding: 0 5px;
+
+}
+
+.nav-link {
+  font-family: 'Montserrat-Black';
+  font-size: 1.2rem;
+}
+
+.kata-awal {
+  padding-right: 3%;
+}
+
+
+/* Introduction */
+#skills {
+  background-color: #fff;
+}
+.perkenalan {
+  padding: 3% 8%;
+  margin-top: 4rem;
+}
+.perkenalan-awal {
+  margin: 1.5rem auto 1rem 1.5rem;
+}
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+}
+.sahal-foto{
+  width: 65%;
+  margin: auto 10rem;
+}
+.portofolio {
+  margin-left: 1.5rem;
+
+}
+
+/* Skills Section */
+#skills {
+  text-align: center;
+  padding: 7% 15%;
+}
+.skill-heading {
+  padding: 1.2rem 0;
+}
+
+/* Recent Projects */
+#recent-projects {
+  text-align: center;
+  color: #fff;
+  background-color: #053F5E;
+}
+.recent-project-heading {
+  padding: 3rem 0 0;
+}
+.gambar3d {
+  width: 50%;
+}
+
+.caption-projects {
+  padding: 3rem 0 0;
+}
+
+.carousel-item {
+  padding: 3% 8%;
+  text-align: center;
+}
+
+/* Education */
+#education {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.sds {
+  text-align: left;
+}
+
+.smp {
+  text-align: left;
+}
+
+.sma {
+  text-align: left;
+}
+
+.univ {
+  text-align: left;
+}
+
+.esempe {
+  padding: 7% 0;
+}
+
+.esema {
+  padding: 7% 0;
+}
+
+.kampus {
+  padding: 7% 0;
+}
+
+.tiara-school2-logo {
+  width: 45%;
+}
+
+
+/* Contact */
+#contact {
+  background-color: #053F5E;
+  text-align: center;
+  padding: 2% 30%;
+  color: #fff;
+
+}
+.contact-logo:hover{
+
+}
+
+.copyright {
+  padding: 1rem 0 ;
+  line-height: 2;
+}
